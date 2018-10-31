@@ -13,6 +13,8 @@ Authors: David Mutchler, Mark Hays, Michael Wollowswki, Matt Boutell,
 import tkinter
 from tkinter import ttk  # Necessary in all but this trivial example.
 
+import tkinter
+
 
 def main():
     root = tkinter.Tk()
